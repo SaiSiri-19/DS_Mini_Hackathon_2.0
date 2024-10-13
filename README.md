@@ -1,5 +1,7 @@
 # DS_Mini_Hackathon_2.0
 
+Above file is the Power BI visualization of the given task.
+
 # Pandas Script 👇
 https://colab.research.google.com/drive/1VkeXrdjsH1Qmi7ZDLls7yIihcFZus5XD?usp=sharing
 
